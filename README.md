@@ -1,1 +1,2 @@
-# cpnt262-ach2-comma-words
+# 1. Comma-separated list of words
+# Darryl Becker
